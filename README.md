@@ -14,12 +14,16 @@ The repository is organized to include solutions and explanations for each day's
 │   ├── answer2.py
 │   ├── answer1.py
 │   ├── challenge2.txt
+│   ├── README.md
+├── day-02
+│   ├── inputs.txt
+│   ├── solution.py
 │   └── README.md
 └── ...
 ```
 
-- **`challenge.txt`:** Contains the puzzle input for the day.
-- **`answer.py`:** Contains the Python code solving the puzzle.
+- **`challenge.txt`, `inputs.txt`:** Contains the puzzle input for the day.
+- **`answer.py`, `solution.py`:** Contains the Python code solving the puzzle.
 - **`README.md`:** Provides a detailed explanation of the puzzle and the solution.
 
 ## How to Use
